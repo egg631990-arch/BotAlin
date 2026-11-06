@@ -42,7 +42,7 @@ class OrderForm(StatesGroup):
 class AdminForm(StatesGroup):
     write = State()
 
-TOKEN = "8828045451:AAFtY5yLVZt-0SspnCDyLIbutXAYhr7AAFU"
+TOKEN = "9118531155:AAFvJrLTv1Sqx1wNO5jy88tSFMTYp_4kt8U"
 
 GREETING = (
     "🏮 <b>Здравствуй, переступивший порог моей лавки.</b>\n\n"
